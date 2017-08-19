@@ -1,0 +1,597 @@
+﻿[
+    {
+      "name": "Banja",
+      "zone": "Awi",
+      "region": "Amhara"
+    },
+    {
+      "name": "Andabet",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Bibugn",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Enebsie Sar Midir",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Debay Tilat Gin",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Baso Liben",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Ensaro",
+      "zone": "North Shewa",
+      "region": "Amhara"
+    },
+    {
+      "name": "Borena",
+      "zone": "South Wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Wadla",
+      "zone": "Noth wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Gazgibla",
+      "zone": "Waghimera",
+      "region": "Amhara"
+    },
+    {
+      "name": "Tach Gayint",
+      "zone": "South Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "East Belesa",
+      "zone": "South Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Artuma Fursi",
+      "zone": "Oromia",
+      "region": "Amhara"
+    },
+    {
+      "name": "Tenta",
+      "zone": "South Wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Meket",
+      "zone": "Noth wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Menz Mama Midir",
+      "zone": "North Shewa",
+      "region": "Amhara"
+    },
+    {
+      "name": "Sayint",
+      "zone": "South Wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Delanta",
+      "zone": "South Wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Sekota Zuria",
+      "zone": "Waghimera",
+      "region": "Amhara"
+    },
+    {
+      "name": "Dewe Harewa",
+      "zone": "Oromia",
+      "region": "Amhara"
+    },
+    {
+      "name": "Gubalafto",
+      "zone": "Noth wollo",
+      "region": "Amhara"
+    },
+    {
+      "name": "Lay Gayint",
+      "zone": "South Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Ibnat",
+      "zone": "South Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "West Belesa",
+      "zone": "North Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Yem",
+      "zone": "Yem",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Janamora",
+      "zone": "North Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Chilga",
+      "zone": "North Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Wombera",
+      "zone": "Metekel",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Bullen",
+      "zone": "Metekel",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Dangur",
+      "zone": "Metekel",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Belojingafoye",
+      "zone": "Kamashi",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Mao & Komo special",
+      "zone": "Special Woreda",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Homosha",
+      "zone": "Assossa",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Agalomite",
+      "zone": "Kamashi",
+      "region": "B/Gumuz"
+    },
+    {
+      "name": "Abobo",
+      "zone": "Agnuak",
+      "region": "Gambella"
+    },
+    {
+      "name": "Gambella",
+      "zone": "Agnuak",
+      "region": "Gambella"
+    },
+    {
+      "name": "Godere",
+      "zone": "Mejang",
+      "region": "Gambella"
+    },
+    {
+      "name": "Itang",
+      "zone": "tang Special woreda",
+      "region": "Gambella"
+    },
+    {
+      "name": "Makoy",
+      "zone": "Nuer",
+      "region": "Gambella"
+    },
+    {
+      "name": "Mengeshi",
+      "zone": "Mejang",
+      "region": "Gambella"
+    },
+    {
+      "name": "Ale",
+      "zone": "Ale",
+      "region": "Oromia"
+    },
+    {
+      "name": "Geta",
+      "zone": "Gurage",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Gudeya Bila",
+      "zone": "Gudeya Bila",
+      "region": "Oromia"
+    },
+    {
+      "name": "Jeldu",
+      "zone": "Jeldu",
+      "region": "Oromia"
+    },
+    {
+      "name": "Toke Kutaye",
+      "zone": "Toke Kutaye",
+      "region": "Oromia"
+    },
+    {
+      "name": "Manasibu",
+      "zone": "Manasibu",
+      "region": "Oromia"
+    },
+    {
+      "name": "Bore",
+      "zone": "Bore",
+      "region": "Oromia"
+    },
+    {
+      "name": "Lume",
+      "zone": "Lume",
+      "region": "Oromia"
+    },
+    {
+      "name": "Anasora",
+      "zone": "Guji",
+      "region": "Oromia"
+    },
+    {
+      "name": "Harmaya",
+      "zone": "East Hararge",
+      "region": "Oromia"
+    },
+    {
+      "name": "Kersa",
+      "zone": "East Hararge",
+      "region": "Oromia"
+    },
+    {
+      "name": "Kuyu",
+      "zone": "North Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "WaraJarso",
+      "zone": "North Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "AdaaBerga",
+      "zone": "West Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "Dendi",
+      "zone": "West Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "Ejere",
+      "zone": "West Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "Wonchi",
+      "zone": "South West Shewa",
+      "region": "Oromia"
+    },
+    {
+      "name": "Mana",
+      "zone": "Jima",
+      "region": "Oromia"
+    },
+    {
+      "name": "LaloKile",
+      "zone": "K/Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Begi",
+      "zone": "West Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Sasiga",
+      "zone": "East Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Metu",
+      "zone": "Illuababora",
+      "region": "Oromia"
+    },
+    {
+      "name": "Kondala",
+      "zone": "West Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "AbayChomen",
+      "zone": "HG Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Horo",
+      "zone": "HG Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Gumay",
+      "zone": "Jima",
+      "region": "Oromia"
+    },
+    {
+      "name": "Gechi",
+      "zone": "Illuababora",
+      "region": "Oromia"
+    },
+    {
+      "name": "HawaGelan",
+      "zone": "K/Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Seyo",
+      "zone": "K/Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "BojiDermeji",
+      "zone": "West Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "JimaArjio",
+      "zone": "East Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "Amuru",
+      "zone": "HG Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "SibuSire",
+      "zone": "East Wellega",
+      "region": "Oromia"
+    },
+    {
+      "name": "ArbeGona",
+      "zone": "Sidama",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Hawassa zuria",
+      "zone": "Sidama",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Kindo Didaye",
+      "zone": "Wolaita",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Boloso Bombe",
+      "zone": "Wolaita",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Loma",
+      "zone": "Dawuro",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Tembaro",
+      "zone": "KembataTimbiro",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Gibe",
+      "zone": "Hadiya",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Soro",
+      "zone": "Hadiya",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Masha",
+      "zone": "Sheka",
+      "region": "SNNPR"
+    },
+    {
+      "name": "SemenAri",
+      "zone": "D/omo",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Adiyo",
+      "zone": "Kafa",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Gesha",
+      "zone": "Kafa",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Menit Goldiya",
+      "zone": "B/maji",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Semen  Bench",
+      "zone": "B/maji",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Gumer",
+      "zone": "Gurage",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Mirabazernet",
+      "zone": "Siliti",
+      "region": "SNNPR"
+    },
+    {
+      "name": "HULBARAG",
+      "zone": "Siliti",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Oyda",
+      "zone": "Gamo Gofa",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Geze Gofa",
+      "zone": "Gamo Gofa",
+      "region": "SNNPR"
+    },
+    {
+      "name": "Emba Alaje",
+      "zone": "South Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "Tahtay koraro",
+      "zone": "North West Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "Laelay Adyabo",
+      "zone": "North West Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "Kafta Humera",
+      "zone": "Western Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "Wolkait",
+      "zone": "Western Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "Tsegede",
+      "zone": "Western Tigray",
+      "region": "Tigray"
+    },
+    {
+      "name": "ArebeGona",
+      "zone": "Sidama",
+      "region": "SNNPR"
+    },
+    {
+      "name": "S/samre",
+      "zone": "South Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "Enderta",
+      "zone": "South Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "D/Tembein",
+      "zone": "South Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "G/Afeshum",
+      "zone": "Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "G/Mekeda",
+      "zone": "Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "A/Womberta",
+      "zone": "Eastern",
+      "region": "Tigray"
+    },
+    {
+      "name": "T/Abergelle",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Ahferom",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Adwa",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Naeder_Adet",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Ahferom,Adwa",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Ahferom, Werei_Leke",
+      "zone": "Central",
+      "region": "Tigray"
+    },
+    {
+      "name": "Sinan",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Aneded",
+      "zone": "East Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "G/Zuria",
+      "zone": "North Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Takusa",
+      "zone": "North Gonder",
+      "region": "Amhara"
+    },
+    {
+      "name": "Sekela",
+      "zone": "West Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "Quarit",
+      "zone": "West Gojam",
+      "region": "Amhara"
+    },
+    {
+      "name": "H/mariam",
+      "zone": "North Shewa",
+      "region": "Amhara"
+    },
+    {
+      "name": "Yilmana Densa",
+      "zone": "West Gojam",
+      "region": "Amhara"
+    }
+  ]
