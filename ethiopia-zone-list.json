@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Awi",
+        "region": "Amhara"
+    },
+    {
+        "name": "East Gojam",
+        "region": "Amhara"
+    },
+    {
+        "name": "North Shewa",
+        "region": "Amhara"
+    },
+    {
+        "name": "South Wollo",
+        "region": "Amhara"
+    },
+    {
+        "name": "Noth wollo",
+        "region": "Amhara"
+    },
+    {
+        "name": "Waghimera",
+        "region": "Amhara"
+    },
+    {
+        "name": "South Gonder",
+        "region": "Amhara"
+    },
+    {
+        "name": "Oromia",
+        "region": "Amhara"
+    },
+    {
+        "name": "North Gonder",
+        "region": "Amhara"
+    },
+    {
+        "name": "Yem",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Metekel",
+        "region": "B/Gumuz"
+    },
+    {
+        "name": "Kamashi",
+        "region": "B/Gumuz"
+    },
+    {
+        "name": " Special Woreda ",
+        "region": "B/Gumuz"
+    },
+    {
+        "name": "Assossa",
+        "region": "B/Gumuz"
+    },
+    {
+        "name": "Agnuak",
+        "region": "Gambella"
+    },
+    {
+        "name": "Mejang",
+        "region": "Gambella"
+    },
+    {
+        "name": "tang Special woreda",
+        "region": "Gambella"
+    },
+    {
+        "name": "Nuer",
+        "region": "Gambella"
+    },
+    {
+        "name": " Ale ",
+        "region": "Oromia"
+    },
+    {
+        "name": "Gurage",
+        "region": "SNNPR"
+    },
+    {
+        "name": " Gudeya Bila ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Jeldu ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Toke Kutaye ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Manasibu ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Bore ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Lume ",
+        "region": "Oromia"
+    },
+    {
+        "name": " Guji ",
+        "region": "Oromia"
+    },
+    {
+        "name": "East Hararge",
+        "region": "Oromia"
+    },
+    {
+        "name": "East Hararge",
+        "region": "Oromia"
+    },
+    {
+        "name": "North Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": "North Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": "South West Shewa",
+        "region": "Oromia"
+    },
+    {
+        "name": " Jima ",
+        "region": "Oromia"
+    },
+    {
+        "name": "K/Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "East Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "Illuababora",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "HG Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "HG Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": " Jima ",
+        "region": "Oromia"
+    },
+    {
+        "name": "Illuababora",
+        "region": "Oromia"
+    },
+    {
+        "name": "K/Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "K/Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "West Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "East Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "HG Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "East Wellega",
+        "region": "Oromia"
+    },
+    {
+        "name": "Sidama",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Wolaita",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Dawuro",
+        "region": "SNNPR"
+    },
+    {
+        "name": "KembataTimbiro",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Hadiya",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Sheka",
+        "region": "SNNPR"
+    },
+    {
+        "name": "D/omo",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Kafa",
+        "region": "SNNPR"
+    },
+    {
+        "name": "B/maji",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Siliti",
+        "region": "SNNPR"
+    },
+    {
+        "name": "Gamo Gofa",
+        "region": "SNNPR"
+    },
+    {
+        "name": " South Tigray ",
+        "region": "Tigray"
+    },
+    {
+        "name": "North West Tigray",
+        "region": "Tigray"
+    },
+    {
+        "name": "Western Tigray",
+        "region": "Tigray"
+    },
+    {
+        "name": "South Eastern",
+        "region": "Tigray"
+    },
+    {
+        "name": "Eastern",
+        "region": "Tigray"
+    },
+    {
+        "name": "Central",
+        "region": "Tigray"
+    },
+    {
+        "name": "West Gojam",
+        "region": "Amhara"
+    }
+]
